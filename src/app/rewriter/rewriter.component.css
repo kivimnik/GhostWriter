@@ -1,0 +1,15 @@
+.c_input{
+    width: 50%;
+}
+
+.c_textArea{
+    resize: none;
+    user-select: none;
+    width: 50%;
+    height: 10em;
+}
+
+.container{
+    height: 80%;
+    width: 100%;
+}
