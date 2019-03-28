@@ -3,7 +3,9 @@
 This program is meant to "rewrite" text. It goes through original text, creating a data structure like this:
 
 word: cat, following words: ate, jumped
+
 word: ate, following words: all, some, my
+
 word: jumped, following words: down, on
 
 And so on. Then it rewrites sentences based on probability and randomness like this:
